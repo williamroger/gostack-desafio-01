@@ -1,0 +1,17 @@
+{
+  "name": "gostack-desafio-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:williamroger/gostack-desafio-01.git",
+  "author": "William Roger <williamroger.frontend@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
