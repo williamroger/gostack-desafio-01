@@ -1,5 +1,5 @@
 # gostack-desafio-01
-[GoStack - Desafio 01] - Criação de uma aplicação para armazenar projetos e tarefas do utilizando [Node.js](https://nodejs.org/en/) e [Express](https://expressjs.com/pt-br/). 
+[GoStack - Desafio 01] - Criação de uma aplicação para armazenar projetos e tarefas utilizando [Node.js](https://nodejs.org/en/) e [Express](https://expressjs.com/pt-br/). 
 
 # Rotas
 * ```POST /projects```: A rota deve receber ```id``` e ```title``` dentro do corpo e cadastrar um novo projeto dentro de um array no seguinte formato: ```{ id: "1", title: 'Novo projeto', tasks: [] }```; Certifique-se de enviar tanto o ID quanto o título do projeto no formato string com aspas duplas.
